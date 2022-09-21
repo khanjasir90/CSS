@@ -1,0 +1,15 @@
+.flex_container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 96%;
+    background-color: red;
+    margin: 2vh;
+}
+
+.card_flex_container {
+    display: flex;
+    width : 20%;
+    height: 10vh;
+    background-color: black;
+    margin: 2vh;;
+}
